@@ -28,5 +28,5 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/Xavier-xuan/RMMT-API.git' }
     ]
   },
-  base: "RMMT-Doc"
+  base: "/RMMT-Doc"
 })
