@@ -27,5 +27,6 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/Xavier-xuan/RMMT-API.git' }
     ]
-  }
+  },
+  base: "RMMT-Doc"
 })
