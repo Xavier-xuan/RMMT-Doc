@@ -1,0 +1,34 @@
+---
+# https://vitepress.dev/reference/default-theme-home-page
+layout: home
+
+hero:
+  name: "Roommate Matcher"
+  text: "Questionnaire-based Roommate <nobr> Recommend System </nobr> for Freshmen"
+  tagline: Dormitory Harmony Starts Here.
+  actions:
+    - theme: brand
+      text: Introduction
+      link: /introduction
+    - theme: alt
+      text: Getting Started
+      link: /get-started
+    - theme: alt
+      text: User Manual
+      link: /user-manual
+    - theme: alt
+      text: Showcase
+      link: /showcase
+
+  image:
+    src: /logo.svg
+
+features:
+  - title: Flexible
+    details: Easily customize the roommate matching questionnaire to meet student needs.
+  - title: Efficient
+    details: Reliably and efficiently manages recommendations, even with large student numbers.
+  - title:  Precise
+    details: Deep learning-based model to ensure students are paired effectively based on their questionnaires.
+---
+
