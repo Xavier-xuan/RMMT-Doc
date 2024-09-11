@@ -3,7 +3,7 @@
 ## What is Roommate Matcher?
 
 
-Roommate Matcher is a questionnaire-based roommate matching program designed to pair individuals based on their compatibility in living preferences and lifestyle choices. By gathering information through a set of targeted questions, the system analyzes key factors such as cleanliness habits, sleep schedules, social preferences, and study environments. Using a weighted algorithm, Roommate Matcher ranks potential roommates based on similarity scores, providing users with the best possible match to ensure a harmonious living experience. This tool has been adopted by Zhixin Residential College at the Southern University of Science and Technology, serving more than 600 freshmen.
+Roommate Matcher is a questionnaire-based roommate matching program designed to pair individuals based on their compatibility in living preferences and lifestyle choices. By gathering information through a set of targeted questions, the system analyzes key factors such as cleanliness habits, sleep schedules, social preferences, and study environments. Using a deep learning model with a weighted algorithm, Roommate Matcher ranks potential roommates based on similarity scores, providing users with the best possible match to ensure a harmonious living experience. This tool has been adopted by Zhixin Residential College at the Southern University of Science and Technology, serving more than 600 freshmen.
 
 
 ## Architecture
